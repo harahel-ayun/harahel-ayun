@@ -12,9 +12,9 @@ Soy estudiante de la tecnicatura en programacion en la UTN de Paraná, Entre Rio
 
 <h4> Languajes </h4>
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
   <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000">
 </span>
 
