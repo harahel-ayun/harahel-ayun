@@ -15,27 +15,21 @@ Soy estudiante de la tecnicatura en programacion en la UTN de Paraná, Entre Rio
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="http://www.w3.org/2000/svg">
+  <img src="">
 </span>
 
 
 <h4> IDE </h4>
 <span>
 <img src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000">
-<img src="[https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white](https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000)">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 
-<h4> Other Tools and Technologies </h4>
+<h4> Otras herramientas y tecnologías </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-
 </span>
 
-
-
-
-    
 
 <hr>
 <p align="center">
