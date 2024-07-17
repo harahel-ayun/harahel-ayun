@@ -15,7 +15,7 @@ Soy estudiante de la tecnicatura en programacion en la UTN de Paraná, Entre Rio
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="![image](https://github.com/user-attachments/assets/28a08951-4a46-4ee2-8ce8-3a1d79b3922f)">
+  <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000">
 </span>
 
 
