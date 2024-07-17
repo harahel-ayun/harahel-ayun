@@ -1,6 +1,6 @@
 ### Holaa 👋 Soy Harahel Jesus Ayun,
 
-Soy estudiante de la tecnicatura en programacion en la UTN de Paraná, Entre Rios, Argentina y tmabien estoy cursando la diplomatura en Programacion Web Full Stack.
+Soy estudiante de la tecnicatura en programacion en la UTN de Paraná, Entre Rios, Argentina y tambien estoy cursando la diplomatura en Programacion Web Full Stack.
 
 - 🔭 Actualemente estoy estudiando:
 	- Programacion
